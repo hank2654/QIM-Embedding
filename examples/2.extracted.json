@@ -1,0 +1,1526 @@
+{
+  "scheme": "radial-parity-qim-v1",
+  "delta": 0.01,
+  "center": [
+    -3.458595284111294,
+    -3.6706706830507105,
+    -22.42417540538089
+  ],
+  "vertex_count": 216,
+  "bits": "001000001000000010110011100100101110101011000010001111011010000111010001110010111010011110010000010111100110110101001001001100110000010001011001111100001000000000100110010110001111100011000010101100100000011101001011",
+  "off_lattice_count": 0,
+  "vertices": [
+    {
+      "vertex_id": 1556,
+      "bit": 0,
+      "radius": 27.3,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1557,
+      "bit": 0,
+      "radius": 27.199999999999996,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1558,
+      "bit": 1,
+      "radius": 35.53,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1559,
+      "bit": 0,
+      "radius": 35.74000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1560,
+      "bit": 0,
+      "radius": 36.82000000000001,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1561,
+      "bit": 0,
+      "radius": 36.62,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1562,
+      "bit": 0,
+      "radius": 34.52,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1563,
+      "bit": 0,
+      "radius": 34.26,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1564,
+      "bit": 1,
+      "radius": 38.13,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1565,
+      "bit": 0,
+      "radius": 38.32,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1566,
+      "bit": 0,
+      "radius": 37.02000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1567,
+      "bit": 0,
+      "radius": 39.04,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1568,
+      "bit": 0,
+      "radius": 35.5,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1569,
+      "bit": 0,
+      "radius": 29.360000000000003,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1570,
+      "bit": 0,
+      "radius": 26.740000000000002,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1571,
+      "bit": 0,
+      "radius": 30.320000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1572,
+      "bit": 1,
+      "radius": 24.71,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1573,
+      "bit": 0,
+      "radius": 34.980000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1574,
+      "bit": 1,
+      "radius": 40.39,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1575,
+      "bit": 1,
+      "radius": 34.97,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1576,
+      "bit": 0,
+      "radius": 37.36000000000001,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1577,
+      "bit": 0,
+      "radius": 35.7,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1578,
+      "bit": 1,
+      "radius": 40.57000000000001,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1579,
+      "bit": 1,
+      "radius": 42.47,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1580,
+      "bit": 1,
+      "radius": 29.150000000000002,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1581,
+      "bit": 0,
+      "radius": 36.06,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1582,
+      "bit": 0,
+      "radius": 40.839999999999996,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1583,
+      "bit": 1,
+      "radius": 32.47,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1584,
+      "bit": 0,
+      "radius": 44.019999999999996,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1585,
+      "bit": 0,
+      "radius": 41.61999999999999,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1586,
+      "bit": 1,
+      "radius": 33.03,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1587,
+      "bit": 0,
+      "radius": 33.96,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1588,
+      "bit": 1,
+      "radius": 31.369999999999997,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1589,
+      "bit": 1,
+      "radius": 28.03,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1590,
+      "bit": 1,
+      "radius": 21.69,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1591,
+      "bit": 0,
+      "radius": 28.560000000000002,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1592,
+      "bit": 1,
+      "radius": 28.63,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1593,
+      "bit": 0,
+      "radius": 29.179999999999996,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1594,
+      "bit": 1,
+      "radius": 22.330000000000005,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1595,
+      "bit": 0,
+      "radius": 21.76,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1596,
+      "bit": 1,
+      "radius": 40.47,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1597,
+      "bit": 1,
+      "radius": 36.150000000000006,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1598,
+      "bit": 0,
+      "radius": 36.6,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1599,
+      "bit": 0,
+      "radius": 36.54,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1600,
+      "bit": 0,
+      "radius": 40.38,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1601,
+      "bit": 0,
+      "radius": 42.46,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1602,
+      "bit": 1,
+      "radius": 40.550000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1603,
+      "bit": 0,
+      "radius": 37.3,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1604,
+      "bit": 0,
+      "radius": 37.74,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1605,
+      "bit": 0,
+      "radius": 40.96,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1606,
+      "bit": 1,
+      "radius": 43.37,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1607,
+      "bit": 1,
+      "radius": 44.89,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1608,
+      "bit": 1,
+      "radius": 42.17,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1609,
+      "bit": 1,
+      "radius": 33.730000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1610,
+      "bit": 0,
+      "radius": 34.78,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1611,
+      "bit": 1,
+      "radius": 32.25000000000001,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1612,
+      "bit": 1,
+      "radius": 33.73,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1613,
+      "bit": 0,
+      "radius": 35.92,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1614,
+      "bit": 1,
+      "radius": 38.25,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1615,
+      "bit": 0,
+      "radius": 36.2,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1616,
+      "bit": 0,
+      "radius": 35.74,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1617,
+      "bit": 0,
+      "radius": 35.68000000000001,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1618,
+      "bit": 0,
+      "radius": 37.36,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1619,
+      "bit": 1,
+      "radius": 34.949999999999996,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1620,
+      "bit": 1,
+      "radius": 34.970000000000006,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1621,
+      "bit": 1,
+      "radius": 29.650000000000002,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1622,
+      "bit": 0,
+      "radius": 29.699999999999996,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1623,
+      "bit": 1,
+      "radius": 29.270000000000003,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1624,
+      "bit": 0,
+      "radius": 34.839999999999996,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1625,
+      "bit": 0,
+      "radius": 33.98000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1626,
+      "bit": 0,
+      "radius": 29.52,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1627,
+      "bit": 1,
+      "radius": 30.11,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1628,
+      "bit": 1,
+      "radius": 30.25,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1629,
+      "bit": 1,
+      "radius": 32.49,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1630,
+      "bit": 0,
+      "radius": 31.34,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1631,
+      "bit": 0,
+      "radius": 33.96,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1632,
+      "bit": 1,
+      "radius": 33.01,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1633,
+      "bit": 0,
+      "radius": 41.6,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1634,
+      "bit": 1,
+      "radius": 44.010000000000005,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1635,
+      "bit": 1,
+      "radius": 40.83,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1636,
+      "bit": 1,
+      "radius": 37.03000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1637,
+      "bit": 0,
+      "radius": 36.92,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1638,
+      "bit": 1,
+      "radius": 36.349999999999994,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1639,
+      "bit": 0,
+      "radius": 40.660000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1640,
+      "bit": 0,
+      "radius": 22.679999999999996,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1641,
+      "bit": 1,
+      "radius": 29.45,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1642,
+      "bit": 1,
+      "radius": 29.05,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1643,
+      "bit": 1,
+      "radius": 29.190000000000005,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1644,
+      "bit": 1,
+      "radius": 22.490000000000002,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1645,
+      "bit": 0,
+      "radius": 22.320000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1646,
+      "bit": 0,
+      "radius": 34.86000000000001,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1647,
+      "bit": 1,
+      "radius": 34.01,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1648,
+      "bit": 0,
+      "radius": 40.480000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1649,
+      "bit": 0,
+      "radius": 40.660000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1650,
+      "bit": 0,
+      "radius": 35.78,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1651,
+      "bit": 0,
+      "radius": 36.14,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1652,
+      "bit": 0,
+      "radius": 35.1,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1653,
+      "bit": 1,
+      "radius": 38.41000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1654,
+      "bit": 0,
+      "radius": 38.04,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1655,
+      "bit": 1,
+      "radius": 32.31,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1656,
+      "bit": 1,
+      "radius": 31.830000000000005,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1657,
+      "bit": 1,
+      "radius": 36.09000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1658,
+      "bit": 1,
+      "radius": 36.910000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1659,
+      "bit": 0,
+      "radius": 36.28,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1660,
+      "bit": 0,
+      "radius": 38.36,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1661,
+      "bit": 1,
+      "radius": 36.31,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1662,
+      "bit": 1,
+      "radius": 37.830000000000005,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1663,
+      "bit": 0,
+      "radius": 41.04,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1664,
+      "bit": 1,
+      "radius": 44.99,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1665,
+      "bit": 1,
+      "radius": 42.25,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1666,
+      "bit": 0,
+      "radius": 33.82,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1667,
+      "bit": 1,
+      "radius": 34.89000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1668,
+      "bit": 0,
+      "radius": 32.36,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1669,
+      "bit": 1,
+      "radius": 33.81,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1670,
+      "bit": 0,
+      "radius": 36.04,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1671,
+      "bit": 0,
+      "radius": 43.46000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1672,
+      "bit": 1,
+      "radius": 34.21,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1673,
+      "bit": 0,
+      "radius": 33.0,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1674,
+      "bit": 0,
+      "radius": 37.31999999999999,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1675,
+      "bit": 1,
+      "radius": 36.730000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1676,
+      "bit": 0,
+      "radius": 31.78,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1677,
+      "bit": 0,
+      "radius": 31.819999999999997,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1678,
+      "bit": 1,
+      "radius": 28.110000000000003,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1679,
+      "bit": 1,
+      "radius": 27.39,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1680,
+      "bit": 0,
+      "radius": 36.18,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1681,
+      "bit": 0,
+      "radius": 29.18,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1682,
+      "bit": 1,
+      "radius": 40.95,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1683,
+      "bit": 1,
+      "radius": 37.51,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1684,
+      "bit": 0,
+      "radius": 37.92,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1685,
+      "bit": 0,
+      "radius": 36.4,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1686,
+      "bit": 0,
+      "radius": 35.98000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1687,
+      "bit": 0,
+      "radius": 38.14,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1688,
+      "bit": 0,
+      "radius": 35.800000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1689,
+      "bit": 1,
+      "radius": 33.69,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1690,
+      "bit": 0,
+      "radius": 32.14,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1691,
+      "bit": 0,
+      "radius": 34.7,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1692,
+      "bit": 0,
+      "radius": 33.660000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1693,
+      "bit": 1,
+      "radius": 42.11,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1694,
+      "bit": 0,
+      "radius": 44.78000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1695,
+      "bit": 1,
+      "radius": 43.25,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1696,
+      "bit": 1,
+      "radius": 38.230000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1697,
+      "bit": 0,
+      "radius": 38.12,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1698,
+      "bit": 0,
+      "radius": 37.84,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1699,
+      "bit": 1,
+      "radius": 37.77,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1700,
+      "bit": 1,
+      "radius": 38.17,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1701,
+      "bit": 1,
+      "radius": 31.990000000000002,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1702,
+      "bit": 1,
+      "radius": 36.59,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1703,
+      "bit": 1,
+      "radius": 36.71000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1704,
+      "bit": 0,
+      "radius": 36.300000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1705,
+      "bit": 0,
+      "radius": 32.46000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1706,
+      "bit": 0,
+      "radius": 36.08,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1707,
+      "bit": 0,
+      "radius": 30.260000000000005,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1708,
+      "bit": 1,
+      "radius": 37.01,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1709,
+      "bit": 0,
+      "radius": 30.220000000000002,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1710,
+      "bit": 0,
+      "radius": 29.3,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1711,
+      "bit": 0,
+      "radius": 23.580000000000002,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1712,
+      "bit": 0,
+      "radius": 22.56,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1713,
+      "bit": 0,
+      "radius": 29.240000000000006,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1714,
+      "bit": 0,
+      "radius": 29.520000000000003,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1715,
+      "bit": 0,
+      "radius": 36.34,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1716,
+      "bit": 0,
+      "radius": 35.86,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1717,
+      "bit": 0,
+      "radius": 30.020000000000003,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1718,
+      "bit": 1,
+      "radius": 29.51,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1719,
+      "bit": 0,
+      "radius": 22.74,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1720,
+      "bit": 0,
+      "radius": 23.260000000000005,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1721,
+      "bit": 1,
+      "radius": 29.05,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1722,
+      "bit": 1,
+      "radius": 22.39,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1723,
+      "bit": 0,
+      "radius": 29.240000000000002,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1724,
+      "bit": 0,
+      "radius": 29.76,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1725,
+      "bit": 1,
+      "radius": 35.65,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1726,
+      "bit": 0,
+      "radius": 36.12,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1727,
+      "bit": 1,
+      "radius": 29.250000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1728,
+      "bit": 1,
+      "radius": 28.79,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1729,
+      "bit": 0,
+      "radius": 22.92,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1730,
+      "bit": 0,
+      "radius": 36.52,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1731,
+      "bit": 0,
+      "radius": 35.58,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1732,
+      "bit": 1,
+      "radius": 29.690000000000005,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1733,
+      "bit": 1,
+      "radius": 28.63,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1734,
+      "bit": 1,
+      "radius": 21.75,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1735,
+      "bit": 1,
+      "radius": 22.830000000000002,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1736,
+      "bit": 1,
+      "radius": 28.71,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1737,
+      "bit": 0,
+      "radius": 29.64,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1738,
+      "bit": 0,
+      "radius": 30.1,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1739,
+      "bit": 0,
+      "radius": 22.38,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1740,
+      "bit": 1,
+      "radius": 29.19,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1741,
+      "bit": 1,
+      "radius": 23.43,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1742,
+      "bit": 0,
+      "radius": 29.7,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1743,
+      "bit": 0,
+      "radius": 21.82,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1744,
+      "bit": 0,
+      "radius": 22.900000000000006,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1745,
+      "bit": 0,
+      "radius": 28.760000000000005,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1746,
+      "bit": 1,
+      "radius": 29.11,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1747,
+      "bit": 0,
+      "radius": 36.92,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1748,
+      "bit": 1,
+      "radius": 30.150000000000002,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1749,
+      "bit": 0,
+      "radius": 35.98000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1750,
+      "bit": 1,
+      "radius": 28.689999999999998,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1751,
+      "bit": 1,
+      "radius": 36.57,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1752,
+      "bit": 0,
+      "radius": 35.62,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1753,
+      "bit": 0,
+      "radius": 29.74,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1754,
+      "bit": 1,
+      "radius": 28.289999999999996,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1755,
+      "bit": 0,
+      "radius": 25.780000000000005,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1756,
+      "bit": 0,
+      "radius": 26.440000000000005,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1757,
+      "bit": 0,
+      "radius": 28.34,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1758,
+      "bit": 0,
+      "radius": 37.78,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1759,
+      "bit": 0,
+      "radius": 40.28,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1760,
+      "bit": 0,
+      "radius": 34.82000000000001,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1761,
+      "bit": 1,
+      "radius": 35.510000000000005,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1762,
+      "bit": 1,
+      "radius": 35.93,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1763,
+      "bit": 1,
+      "radius": 36.07000000000001,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1764,
+      "bit": 0,
+      "radius": 32.96000000000001,
+      "lattice_error_in_delta": 9.094947017729282e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1765,
+      "bit": 1,
+      "radius": 34.17,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1766,
+      "bit": 0,
+      "radius": 37.279999999999994,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1767,
+      "bit": 0,
+      "radius": 36.7,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1768,
+      "bit": 1,
+      "radius": 31.73,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1769,
+      "bit": 0,
+      "radius": 31.78,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1770,
+      "bit": 1,
+      "radius": 28.070000000000004,
+      "lattice_error_in_delta": 4.547473508864641e-13,
+      "on_lattice": true
+    },
+    {
+      "vertex_id": 1771,
+      "bit": 1,
+      "radius": 27.35,
+      "lattice_error_in_delta": 0.0,
+      "on_lattice": true
+    }
+  ]
+}

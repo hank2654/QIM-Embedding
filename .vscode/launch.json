@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "QIM: Embed 2.stp (216 bits)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/embed_step.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "args": ["examples/2.stp", "examples/2.qim.stp", "--delta", "${input:delta}", "--mode", "${input:mode}", "--seed", "${input:seed}", "--report", "examples/2.embed.json", "--overwrite"]
+    },
+    {
+      "name": "QIM: Extract from 2.qim.stp",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/extract_step.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "args": ["examples/2.qim.stp", "--output", "examples/2.extracted.json", "--overwrite"]
+    }
+  ],
+  "inputs": [
+    {"id": "delta", "type": "promptString", "description": "QIM delta (model coordinate units)", "default": "0.01"},
+    {"id": "mode", "type": "pickString", "description": "Bit mode", "options": ["random", "0", "1"], "default": "random"},
+    {"id": "seed", "type": "promptString", "description": "Random seed", "default": "42"}
+  ]
+}

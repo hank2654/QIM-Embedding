@@ -1,0 +1,16 @@
+[
+  {
+    "file": "examples/2.stp",
+    "transferred_roots": 1,
+    "unique_topological_vertices": 227,
+    "brep_valid_after_import": true,
+    "note": "STEP import may heal geometry; this does not verify watermark survival after CAD re-export."
+  },
+  {
+    "file": "examples/2.qim.stp",
+    "transferred_roots": 1,
+    "unique_topological_vertices": 227,
+    "brep_valid_after_import": true,
+    "note": "STEP import may heal geometry; this does not verify watermark survival after CAD re-export."
+  }
+]

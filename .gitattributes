@@ -1,0 +1,7 @@
+# Preserve STEP bytes on Windows as well as Unix.
+*.stp -text -diff
+*.step -text -diff
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
